@@ -1,0 +1,147 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Andrew\workspace\Test Scala Project\src -> C:\Users\Andrew\workspace\Test Scala Project\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_66\lib\resources.jar;C:\Program Files\Java\jre1.8.0_66\lib\rt.jar;C:\Program Files\Java\jre1.8.0_66\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_66\lib\jce.jar;C:\Program Files\Java\jre1.8.0_66\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_66\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_66\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\Andrew\Desktop\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+20 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Block.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Constant$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Constant.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Expression.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\HelloWorld$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\HelloWorld.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\If$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\If.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\IsZero$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\IsZero.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Not$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Not.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Print$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Print.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\SmallParser$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\SmallParser.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\State$.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\State.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Statement.class
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\workspace\Test Scala Project\bin\Term.class
+binary dependencies:
+2 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Program Files\Java\jre1.8.0_66\lib\rt.jar
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> C:\Users\Andrew\Desktop\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Block
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Constant
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Constant$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Expression
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> HelloWorld
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> HelloWorld$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> If
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> If$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> IsZero
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> IsZero$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Not
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Not$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Print
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Print$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> SmallParser
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> SmallParser$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> State
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> State$
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Statement
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> Term
+used names:
+0 items
+product stamps:
+20 items
+C:\Users\Andrew\workspace\Test Scala Project\bin\Block.class -> lastModified(1452445921714)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Constant$.class -> lastModified(1452445921717)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Constant.class -> lastModified(1452445921723)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Expression.class -> lastModified(1452445921724)
+C:\Users\Andrew\workspace\Test Scala Project\bin\HelloWorld$.class -> lastModified(1452445921728)
+C:\Users\Andrew\workspace\Test Scala Project\bin\HelloWorld.class -> lastModified(1452445921726)
+C:\Users\Andrew\workspace\Test Scala Project\bin\If$.class -> lastModified(1452445921732)
+C:\Users\Andrew\workspace\Test Scala Project\bin\If.class -> lastModified(1452445921737)
+C:\Users\Andrew\workspace\Test Scala Project\bin\IsZero$.class -> lastModified(1452445921739)
+C:\Users\Andrew\workspace\Test Scala Project\bin\IsZero.class -> lastModified(1452445921744)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Not$.class -> lastModified(1452445921747)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Not.class -> lastModified(1452445921752)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Print$.class -> lastModified(1452445921754)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Print.class -> lastModified(1452445921758)
+C:\Users\Andrew\workspace\Test Scala Project\bin\SmallParser$.class -> lastModified(1452445921763)
+C:\Users\Andrew\workspace\Test Scala Project\bin\SmallParser.class -> lastModified(1452445921759)
+C:\Users\Andrew\workspace\Test Scala Project\bin\State$.class -> lastModified(1452445921770)
+C:\Users\Andrew\workspace\Test Scala Project\bin\State.class -> lastModified(1452445921768)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Statement.class -> lastModified(1452445921771)
+C:\Users\Andrew\workspace\Test Scala Project\bin\Term.class -> lastModified(1452445921772)
+source stamps:
+1 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> hash(74fc360bfcf4f04b4f78e856a578f0a72f2dd5d0)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> lastModified(1452440206669)
+C:\Users\Andrew\Desktop\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1452378023231)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_66\lib\rt.jar -> java.io.Serializable
+C:\Users\Andrew\Desktop\scala-SDK-4.3.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Serializable
+internal apis:
+1 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAZsHzoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAxzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAEVGVybXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADVzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGk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
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Andrew\workspace\Test Scala Project\src\TestClass.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiiCkUF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUijx6BB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUixlceh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUixtPQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUix/C2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiyC/8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiyEPW91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiyF74l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XGJpbnQAMEM6XFVzZXJzXEFuZHJld1x3b3Jrc3BhY2VcVGVzdCBTY2FsYSBQcm9qZWN0XHNyYw==
