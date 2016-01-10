@@ -18,7 +18,7 @@ object SmallParser
 {
   def ParseStatement(S: Statement): Unit = S match
   {
-    case If(l, r) if(ParseExpression(l)) => ParseBlock(r)
+    case If(l, r) => if(ParseExpression(l)){ParseBlock(r)}
     case Print(l) => println(ParseTerm(l))
   }
   
@@ -33,7 +33,7 @@ object SmallParser
   }
   
   def ParseTerm(T: Term) : Int = T match
-  {
+  { 
     case Constant(v) => v
   }
 }
@@ -43,7 +43,7 @@ object HelloWorld
 {
   def main(args: Array[String]):Unit = {
     println("Hello World");
-    val exp: Statement = If(Not(IsZero(Constant(5))), State(Print(Constant(5)))); 
+    val exp: Statement = If(Not(IsZero(Constant(0))), State(Print(Constant(5)))); 
     SmallParser.ParseStatement(exp);
   }
 }
